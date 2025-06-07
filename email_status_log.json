@@ -1,0 +1,33 @@
+[
+  {
+    "id": "A123",
+    "to": "himanshu@gmail.com",
+    "status": "success",
+    "provider": "Provider1",
+    "attempts": 1,
+    "timestamp": "2025-06-07T07:31:14.976Z"
+  },
+  {
+    "id": "A13",
+    "to": "him@gmail.com",
+    "status": "success",
+    "provider": "Provider1",
+    "attempts": 1,
+    "timestamp": "2025-06-07T07:31:14.977Z"
+  },
+  {
+    "id": "A124",
+    "to": "jainsahab@gmail.com",
+    "status": "skipped",
+    "attempts": 0,
+    "timestamp": "2025-06-07T07:31:19.980Z"
+  },
+  {
+    "id": "A125",
+    "to": "Himanshujain@gmail.com",
+    "status": "success",
+    "provider": "Provider1",
+    "attempts": 1,
+    "timestamp": "2025-06-07T07:31:24.983Z"
+  }
+]
