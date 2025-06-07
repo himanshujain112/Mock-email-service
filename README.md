@@ -1,4 +1,4 @@
-# Resilient Email Sending Service (TypeScript)
+# Mock Email Sending Service (TypeScript)
 
 This project is a robust, fault-tolerant email sending service built with TypeScript. It demonstrates production-ready patterns like retries, fallback mechanisms, rate limiting, idempotency, and status tracking using mocked email providers.
 
